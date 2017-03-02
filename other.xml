@@ -1,0 +1,22 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="ssh://django@127.0.0.1:2222/usr/bin/python" value="false" />
+        <entry key="vagrant://C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="ssh://django@127.0.0.1:2222/usr/bin/python" value="false" />
+        <entry key="vagrant://C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="ssh://django@127.0.0.1:2222/usr/bin/python" value="false" />
+        <entry key="vagrant://C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
