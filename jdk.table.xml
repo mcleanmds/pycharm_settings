@@ -8,8 +8,6 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar://C:/Python27/Lib/site-packages/closure_linter-2.3.19-py2.7.egg!/" />
-            <root type="simple" url="jar://C:/Python27/Lib/site-packages/python_gflags-3.0.5-py2.7.egg!/" />
             <root type="simple" url="file://C:/Python27/DLLs" />
             <root type="simple" url="file://C:/Python27/Lib" />
             <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
@@ -26,10 +24,10 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Remote Python interpreter" />
+      <name value="Remote Python 2.7.3 Vagrant VM at C:/Users/mclea/ycdevel/mcleanmds/yescourse-devel-env/vagrant (/usr/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.9" />
-      <homePath value="vagrant://C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant/usr/bin/python" />
+      <version value="Python 2.7.3" />
+      <homePath value="vagrant://C:/Users/mclea/ycdevel/mcleanmds/yescourse-devel-env/vagrant/usr/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
@@ -50,6 +48,8 @@
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-125940560" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1676341222" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-554877149" />
+            <root type="simple" url="jar://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/pyRFC3339-1.0-py2.7.egg!/" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/201544331" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/724150857" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-154863933" />
@@ -76,7 +76,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional VAGRANT_FOLDER="C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="false" SKELETONS_PATH="" VERSION="Python 2.7.9">
+      <additional VAGRANT_FOLDER="$USER_HOME$/ycdevel/mcleanmds/yescourse-devel-env/vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
@@ -97,6 +97,8 @@
               <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
               <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
               <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-554877149" remote-root="/usr/local/lib/python2.7/dist-packages/bootstrap_vz-0.9.10-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/pyRFC3339-1.0-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyRFC3339-1.0-py2.7.egg" />
               <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/201544331" remote-root="/usr/lib/python2.7" />
               <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
               <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
