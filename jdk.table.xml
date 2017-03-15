@@ -1,9 +1,9 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.11 (C:\Python27\python.exe)" />
+      <name value="Python 2.7.13 (C:\Python27\python.exe)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.11" />
+      <version value="Python 2.7.13" />
       <homePath value="C:\Python27\python.exe" />
       <roots>
         <classPath>
@@ -13,8 +13,12 @@
             <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
             <root type="simple" url="file://C:/Python27" />
             <root type="simple" url="file://C:/Python27/Lib/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
           </root>
         </classPath>
         <sourcePath>
@@ -24,44 +28,17 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Remote Python 2.7.3 Vagrant VM at C:/Users/mclea/ycdevel/mcleanmds/yescourse-devel-env/vagrant (/usr/bin/python)" />
+      <name value="Remote Python 2.7.9 Vagrant VM at C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant (/usr/bin/python)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.3" />
-      <homePath value="vagrant://C:/Users/mclea/ycdevel/mcleanmds/yescourse-devel-env/vagrant/usr/bin/python" />
+      <version value="Python 2.7.9" />
+      <homePath value="vagrant://C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant/usr/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/201544331" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-2145795944" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-154863933" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-2006528493" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-1227933812" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/1616536731" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-125940560" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-1676341222" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/201544331" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-2145795944" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-154863933" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-2006528493" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1227933812" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/1616536731" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-125940560" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1676341222" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/724150857" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-554877149" />
-            <root type="simple" url="jar://$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/pyRFC3339-1.0-py2.7.egg!/" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/201544331" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/724150857" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-154863933" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-1227933812" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/1616536731" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-125940560" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-1676341222" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/201544331" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/724150857" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-154863933" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-1227933812" />
-            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/1616536731" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-125940560" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-1676341222" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-481548198" />
@@ -76,41 +53,14 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional VAGRANT_FOLDER="$USER_HOME$/ycdevel/mcleanmds/yescourse-devel-env/vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.3">
+      <additional VAGRANT_FOLDER="C:\Users\mclea\ycdevel\mcleanmds\yescourse-devel-env\vagrant" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.9">
         <PathMappingSettings>
           <option name="pathMappings">
             <list>
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/201544331" remote-root="/usr/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/1616536731" remote-root="/usr/local/lib/python2.7/dist-packages/yescourse_django" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.1/system/remote_sources/-481548198/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/201544331" remote-root="/usr/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-2145795944" remote-root="/usr/lib/python2.7/plat-linux2" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-2006528493" remote-root="/usr/lib/python2.7/lib-dynload" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/1616536731" remote-root="/usr/local/lib/python2.7/dist-packages/yescourse_django" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/-554877149" remote-root="/usr/local/lib/python2.7/dist-packages/bootstrap_vz-0.9.10-py2.7.egg" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.2/system/remote_sources/-481548198/pyRFC3339-1.0-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/pyRFC3339-1.0-py2.7.egg" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/201544331" remote-root="/usr/lib/python2.7" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/1616536731" remote-root="/usr/local/lib/python2.7/dist-packages/yescourse_django" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2016.3/system/remote_sources/-481548198/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/201544331" remote-root="/usr/lib/python2.7" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
-              <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/1616536731" remote-root="/usr/local/lib/python2.7/dist-packages/yescourse_django" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
               <mapping local-root="$USER_HOME$/.PyCharm2017.1/system/remote_sources/-481548198/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
             </list>
