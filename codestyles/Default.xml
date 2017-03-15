@@ -1,0 +1,10 @@
+<code_scheme name="Default">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+  </Python>
+</code_scheme>
