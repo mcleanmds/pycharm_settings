@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="gcp_rsa" type="PLAIN_TEXT" />
       <mapping pattern="localhost" type="PLAIN_TEXT" />
+      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
       <mapping pattern="repmgrd" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
