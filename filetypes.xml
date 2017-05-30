@@ -8,8 +8,10 @@
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
       <mapping pattern="repmgrd" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
