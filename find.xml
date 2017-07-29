@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,13 +24,18 @@
       <mask>*.js,*</mask>
       <mask>*.js,</mask>
       <mask>te*.py</mask>
-      <mask>test*.py</mask>
       <mask>*</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>te</mask>
+      <mask>test</mask>
+      <mask>test*</mask>
+      <mask>test*.</mask>
+      <mask>test*.p</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
