@@ -1,36 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!test*.py" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.js,</mask>
-      <mask>*.js,*.</mask>
-      <mask>*.js,*.soy</mask>
-      <mask>*.js,*</mask>
-      <mask>*.js,</mask>
-      <mask>te*.py</mask>
-      <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>te</mask>
       <mask>test</mask>
       <mask>test*</mask>
       <mask>test*.</mask>
       <mask>test*.p</mask>
       <mask>test*.py</mask>
-      <mask>*.py</mask>
       <mask>^(?!.*bar).*$*.py</mask>
       <mask>^(?!.*bar).**.py</mask>
       <mask>^(?!.*bar).*.py</mask>
@@ -42,7 +25,20 @@
       <mask>!test)*.py</mask>
       <mask>!test).py</mask>
       <mask>!test.py</mask>
+      <mask>!test*.py;</mask>
+      <mask>!test*.py; */</mask>
+      <mask>!test*.py; *</mask>
+      <mask>!test*.py; *p</mask>
+      <mask>!test*.py; *py</mask>
+      <mask>!test*.py; *y</mask>
+      <mask>!test*.py; y</mask>
+      <mask>!test*.py;y</mask>
+      <mask>!test*.py;</mask>
+      <mask>!*.py</mask>
+      <mask>!te*.py</mask>
       <mask>!test*.py</mask>
+      <mask>.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
