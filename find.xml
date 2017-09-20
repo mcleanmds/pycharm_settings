@@ -7,14 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="!test*.py" />
     <recentFileMasks>
-      <mask>!test)*.py</mask>
-      <mask>!test).py</mask>
-      <mask>!test.py</mask>
-      <mask>!test*.py;</mask>
-      <mask>!test*.py; */</mask>
-      <mask>!test*.py; *</mask>
       <mask>!test*.py; *p</mask>
       <mask>!test*.py; *py</mask>
       <mask>!test*.py; *y</mask>
@@ -30,7 +24,6 @@
       <mask>.py</mask>
       <mask>test.py</mask>
       <mask>test*.py</mask>
-      <mask>!test*.py</mask>
       <mask>*/</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -39,6 +32,13 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>!</mask>
+      <mask>!t</mask>
+      <mask>!tes</mask>
+      <mask>!test</mask>
+      <mask>!test*</mask>
+      <mask>!test*.</mask>
+      <mask>!test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
