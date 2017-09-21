@@ -9,14 +9,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>!test*.py; *p</mask>
-      <mask>!test*.py; *py</mask>
-      <mask>!test*.py; *y</mask>
-      <mask>!test*.py; y</mask>
-      <mask>!test*.py;y</mask>
-      <mask>!test*.py;</mask>
-      <mask>!*.py</mask>
       <mask>!te*.py</mask>
       <mask>*tes.py</mask>
       <mask>*te.py</mask>
@@ -26,8 +20,6 @@
       <mask>test.py</mask>
       <mask>test*.py</mask>
       <mask>*/</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.htl</mask>
       <mask>*.ht</mask>
@@ -40,6 +32,15 @@
       <mask>!test*</mask>
       <mask>!test*.</mask>
       <mask>!test*.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sass</mask>
+      <mask>*.sas</mask>
+      <mask>*.sa</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
