@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>test*.py</mask>
       <mask>*/</mask>
@@ -15,15 +16,10 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>!tes</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sass</mask>
       <mask>*.sas</mask>
       <mask>*.sa</mask>
       <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*h</mask>
       <mask>*html</mask>
       <mask>*.html</mask>
@@ -38,6 +34,11 @@
       <mask>!test*.</mask>
       <mask>!test*.p</mask>
       <mask>!test*.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
