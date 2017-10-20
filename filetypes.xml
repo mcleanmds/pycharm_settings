@@ -5,6 +5,7 @@
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
       <mapping pattern="repmgrd" type="PLAIN_TEXT" />
       <mapping pattern="localhost" type="PLAIN_TEXT" />
+      <mapping pattern="test_academy_settings_views.py" type="PLAIN_TEXT" />
       <mapping pattern="yc-cache-server-1" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="gcp_rsa" type="PLAIN_TEXT" />

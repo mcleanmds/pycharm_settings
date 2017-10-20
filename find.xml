@@ -29,7 +29,6 @@
       <mask>!tes*.py</mask>
       <mask>!te*.py</mask>
       <mask>!*.py</mask>
-      <mask>*.py</mask>
       <mask>te</mask>
       <mask>test</mask>
       <mask>test*</mask>
@@ -38,6 +37,7 @@
       <mask>!*test*.py</mask>
       <mask>test*.py</mask>
       <mask>!test*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
