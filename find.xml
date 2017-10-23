@@ -8,13 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!t</mask>
-      <mask>!te</mask>
-      <mask>*.p</mask>
-      <mask>!</mask>
-      <mask>!tes</mask>
-      <mask>!test.</mask>
-      <mask>!test</mask>
       <mask>!test*</mask>
       <mask>!test*.</mask>
       <mask>.scs</mask>
@@ -33,10 +26,17 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>!test*.p</mask>
-      <mask>!test*.py</mask>
       <mask>!tes*.py</mask>
       <mask>!te*.py</mask>
       <mask>!*.py</mask>
+      <mask>te</mask>
+      <mask>test</mask>
+      <mask>test*</mask>
+      <mask>test*.</mask>
+      <mask>test*.p</mask>
+      <mask>!*test*.py</mask>
+      <mask>test*.py</mask>
+      <mask>!test*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
