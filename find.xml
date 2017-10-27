@@ -10,15 +10,11 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.sss</mask>
-      <mask>.sass</mask>
       <mask>.sas</mask>
       <mask>.sa</mask>
       <mask>.s</mask>
       <mask>.</mask>
       <mask>.py</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -34,12 +30,16 @@
       <mask>!*test*.py</mask>
       <mask>test*.py</mask>
       <mask>!test*.py</mask>
-      <mask>*.py</mask>
       <mask>!*.py</mask>
       <mask>!*.p</mask>
       <mask>!*.</mask>
       <mask>!*.t</mask>
       <mask>!*.txt</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py`</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
