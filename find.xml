@@ -9,16 +9,14 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!ycdeps.js" />
     <recentFileMasks>
-      <mask>*</mask>
+      <mask>*.py`</mask>
+      <mask>!te*.py</mask>
+      <mask>!tes*.py</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
       <mask>*py</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.soy</mask>
       <mask>*.so</mask>
       <mask>*.s</mask>
@@ -30,17 +28,18 @@
       <mask>!t.py</mask>
       <mask>!.py</mask>
       <mask>.py</mask>
-      <mask>*.py</mask>
       <mask>!test.py</mask>
       <mask>!test*.py</mask>
-      <mask>!y</mask>
-      <mask>!yc</mask>
-      <mask>!ycd</mask>
-      <mask>!ycde</mask>
-      <mask>!ycdep</mask>
-      <mask>!ycdeps</mask>
-      <mask>!ycdeps.</mask>
-      <mask>!ycdeps.js</mask>
+      <mask>!*.py</mask>
+      <mask>!*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.py</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*h</mask>
+      <mask>*htm</mask>
+      <mask>*html</mask>
     </recentFileMasks>
   </component>
 </application>
