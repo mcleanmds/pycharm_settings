@@ -24,7 +24,6 @@
       <mask>!*.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.py</mask>
       <mask>*.</mask>
       <mask>*h</mask>
       <mask>*htm</mask>
@@ -38,6 +37,7 @@
       <mask>!test*.</mask>
       <mask>!test*.p</mask>
       <mask>!test*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
