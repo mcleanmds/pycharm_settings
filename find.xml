@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*h</mask>
       <mask>*htm</mask>
@@ -28,16 +29,16 @@
       <mask>!test*.</mask>
       <mask>!test*.p</mask>
       <mask>test*.py</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*!.py</mask>
       <mask>*!te.py</mask>
       <mask>*!test.py</mask>
       <mask>*!test*.py</mask>
       <mask>!test*.py</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
