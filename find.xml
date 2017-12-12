@@ -7,28 +7,15 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="!test*" />
     <recentFileMasks>
-      <mask>*html</mask>
-      <mask>*</mask>
-      <mask>!test_</mask>
-      <mask>tes*.py</mask>
-      <mask>.py</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>!*test*.py</mask>
-      <mask>*.pjs</mask>
       <mask>*.pj</mask>
       <mask>!*</mask>
       <mask>!</mask>
       <mask>!te</mask>
-      <mask>!test</mask>
-      <mask>!test*</mask>
       <mask>!test*.</mask>
       <mask>!test*.p</mask>
       <mask>*.j</mask>
-      <mask>*!.py</mask>
-      <mask>*!te.py</mask>
       <mask>*!test.py</mask>
       <mask>*!test*.py</mask>
       <mask>!test*.py</mask>
@@ -38,7 +25,20 @@
       <mask>test*.py</mask>
       <mask>te*.py</mask>
       <mask>t*.py</mask>
+      <mask>*!te.py</mask>
+      <mask>*!t.py</mask>
+      <mask>*!.py</mask>
       <mask>*.py</mask>
+      <mask>~.py</mask>
+      <mask>.py</mask>
+      <mask>!.py</mask>
+      <mask>!t.py</mask>
+      <mask>!tes.py</mask>
+      <mask>!test.py</mask>
+      <mask>!testpy</mask>
+      <mask>!testy</mask>
+      <mask>!test</mask>
+      <mask>!test*</mask>
     </recentFileMasks>
   </component>
 </application>
