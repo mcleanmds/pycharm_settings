@@ -8,11 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.pj</mask>
-      <mask>!*</mask>
-      <mask>!</mask>
-      <mask>!te</mask>
-      <mask>!test*.</mask>
       <mask>!test*.p</mask>
       <mask>*.j</mask>
       <mask>*!test.py</mask>
@@ -38,6 +33,11 @@
       <mask>!testy</mask>
       <mask>!test</mask>
       <mask>!test*</mask>
+      <mask>.</mask>
+      <mask>.sc</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
