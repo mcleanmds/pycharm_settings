@@ -1,42 +1,44 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*html</mask>
-      <mask>*</mask>
-      <mask>!test_</mask>
-      <mask>tes*.py</mask>
+      <mask>*!.py</mask>
+      <mask>~.py</mask>
       <mask>.py</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>!*test*.py</mask>
-      <mask>*.pjs</mask>
-      <mask>*.pj</mask>
-      <mask>!*</mask>
-      <mask>!</mask>
-      <mask>!te</mask>
+      <mask>!.py</mask>
+      <mask>!t.py</mask>
+      <mask>!tes.py</mask>
+      <mask>!test.py</mask>
+      <mask>!testpy</mask>
+      <mask>!testy</mask>
       <mask>!test</mask>
       <mask>!test*</mask>
-      <mask>!test*.</mask>
-      <mask>!test*.p</mask>
-      <mask>*.j</mask>
-      <mask>*!.py</mask>
-      <mask>*!te.py</mask>
-      <mask>*!test.py</mask>
-      <mask>*!test*.py</mask>
-      <mask>!test*.py</mask>
-      <mask>*.</mask>
+      <mask>.</mask>
+      <mask>.sc</mask>
+      <mask>.scs</mask>
+      <mask>.scss</mask>
+      <mask>*.scss</mask>
+      <mask>*.sg</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.hjs</mask>
+      <mask>*.hj</mask>
+      <mask>*.hs</mask>
+      <mask>*.h</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>test*.py</mask>
-      <mask>te*.py</mask>
-      <mask>t*.py</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
