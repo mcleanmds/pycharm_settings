@@ -9,9 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!test*.py" />
+    <option name="FILE_MASK" value="test*.py" />
     <recentFileMasks>
-      <mask>!tes.py</mask>
       <mask>!testpy</mask>
       <mask>!testy</mask>
       <mask>!test</mask>
@@ -41,6 +40,7 @@
       <mask>test.py</mask>
       <mask>!test.py</mask>
       <mask>!test*.py</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
