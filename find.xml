@@ -25,7 +25,6 @@
       <mask>*.hj</mask>
       <mask>*.hs</mask>
       <mask>*.h</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*te.py</mask>
@@ -38,6 +37,7 @@
       <mask>*.py</mask>
       <mask>!test*.py</mask>
       <mask>*.html</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
