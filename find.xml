@@ -35,9 +35,9 @@
       <mask>*.yml</mask>
       <mask>test*.py</mask>
       <mask>!test*.py</mask>
-      <mask>*.html</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
