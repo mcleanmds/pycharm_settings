@@ -33,11 +33,11 @@
       <mask>test.py</mask>
       <mask>!test.py</mask>
       <mask>*.yml</mask>
-      <mask>test*.py</mask>
       <mask>!test*.py</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.html</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
