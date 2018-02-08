@@ -9,7 +9,6 @@
   <Python>
     <option name="SPACE_AFTER_PY_COLON" value="false" />
     <option name="SPACE_AROUND_POWER_OPERATOR" value="false" />
-    <option name="BLANK_LINES_AROUND_TOP_LEVEL_CLASSES_FUNCTIONS" value="1" />
     <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
