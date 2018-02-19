@@ -13,6 +13,7 @@
       <mapping ext="logrotate" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="bb1" type="PLAIN_TEXT" />
+      <mapping ext="path" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
