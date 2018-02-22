@@ -37,9 +37,9 @@
       <mask>*.py</mask>
       <mask>test*.py</mask>
       <mask>*.js</mask>
-      <mask>!test*.py</mask>
       <mask>*.html</mask>
       <mask>*.scss</mask>
+      <mask>!test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
