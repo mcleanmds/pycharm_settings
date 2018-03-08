@@ -30,7 +30,6 @@
       <mask>*test.py</mask>
       <mask>test.py</mask>
       <mask>!test.py</mask>
-      <mask>*.html</mask>
       <mask>*.yml</mask>
       <mask>*.sh</mask>
       <mask>test*.py</mask>
@@ -38,6 +37,7 @@
       <mask>*.scss</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
