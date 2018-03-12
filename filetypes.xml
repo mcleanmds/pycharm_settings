@@ -19,13 +19,15 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="net" type="PLAIN_TEXT" />
       <mapping ext="expect" type="PLAIN_TEXT" />
+      <mapping ext="path" type="PLAIN_TEXT" />
       <mapping ext="tdb" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="logrotate" type="PLAIN_TEXT" />
-      <mapping ext="path" type="PLAIN_TEXT" />
       <mapping pattern="ssl.conf" type="nginx file type" />
       <mapping pattern="yc_api_proxy.conf" type="nginx file type" />
+      <mapping pattern="gcp_proxy_params.conf" type="nginx file type" />
       <mapping pattern="maintenance.conf" type="nginx file type" />
+      <mapping pattern="gcp_proxy_params" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
       <mapping pattern="loadbalancer.conf" type="nginx file type" />
       <mapping pattern="proxy_params" type="nginx file type" />
