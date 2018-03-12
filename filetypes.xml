@@ -29,6 +29,7 @@
       <mapping pattern="maintenance.conf" type="nginx file type" />
       <mapping pattern="gcp_proxy_params" type="nginx file type" />
       <mapping pattern="nginx.conf" type="nginx file type" />
+      <mapping pattern="ssl_params" type="nginx file type" />
       <mapping pattern="loadbalancer.conf" type="nginx file type" />
       <mapping pattern="proxy_params" type="nginx file type" />
     </extensionMap>
