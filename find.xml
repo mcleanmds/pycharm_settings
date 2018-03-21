@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.soy" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>.</mask>
       <mask>.sc</mask>
@@ -31,7 +31,6 @@
       <mask>*.sh</mask>
       <mask>test*.py</mask>
       <mask>*.scss</mask>
-      <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.txt</mask>
       <mask>*.yml</mask>
@@ -39,6 +38,7 @@
       <mask>!test*.py</mask>
       <mask>*.py</mask>
       <mask>*.soy</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
