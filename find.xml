@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.</mask>
       <mask>.sc</mask>
       <mask>.scs</mask>
       <mask>.scss</mask>
@@ -38,6 +37,7 @@
       <mask>*.py</mask>
       <mask>*.soy</mask>
       <mask>*.js</mask>
+      <mask>!*.py</mask>
     </recentFileMasks>
   </component>
 </application>
