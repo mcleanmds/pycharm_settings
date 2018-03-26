@@ -27,7 +27,6 @@
       <mask>test.py</mask>
       <mask>!test.py</mask>
       <mask>*.sh</mask>
-      <mask>test*.py</mask>
       <mask>*.scss</mask>
       <mask>*.html</mask>
       <mask>*.txt</mask>
@@ -38,6 +37,7 @@
       <mask>*.soy</mask>
       <mask>*.js</mask>
       <mask>!*.py</mask>
+      <mask>test*.py</mask>
     </recentFileMasks>
   </component>
 </application>
