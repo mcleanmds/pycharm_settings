@@ -7,38 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <recentFileMasks>
-      <mask>.sc</mask>
-      <mask>.scs</mask>
-      <mask>.scss</mask>
-      <mask>*.sg</mask>
-      <mask>*.s</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.hjs</mask>
-      <mask>*.hj</mask>
-      <mask>*.hs</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*te.py</mask>
-      <mask>*tes.py</mask>
-      <mask>*test.py</mask>
-      <mask>test.py</mask>
-      <mask>!test.py</mask>
-      <mask>*.sh</mask>
-      <mask>*.scss</mask>
-      <mask>*.html</mask>
-      <mask>*.txt</mask>
-      <mask>*.service</mask>
-      <mask>!test*.py</mask>
-      <mask>*.py</mask>
-      <mask>*.soy</mask>
-      <mask>!*.py</mask>
-      <mask>test*.py</mask>
-      <mask>*.yml</mask>
-      <mask>*.js</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.py" />
   </component>
 </application>
