@@ -14,13 +14,16 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>test*.py</mask>
-    <mask>*.js</mask>
     <mask>*.subscription</mask>
+    <mask>*.yml</mask>
     <mask>!test*.py</mask>
+    <mask>test*.py</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
+    <mask>*.soy</mask>
+    <mask>*.js</mask>
+    <mask>!.scss</mask>
     <mask>*.py</mask>
     <mask>*.robot</mask>
-    <mask>*.yml</mask>
   </component>
 </application>
