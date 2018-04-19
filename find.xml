@@ -21,10 +21,10 @@
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.soy</mask>
-    <mask>*.js</mask>
     <mask>!.scss</mask>
     <mask>*.robot</mask>
     <mask>*.json</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
