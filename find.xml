@@ -15,7 +15,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.subscription</mask>
-    <mask>*.yml</mask>
     <mask>!.scss</mask>
     <mask>*.robot</mask>
     <mask>*.py</mask>
@@ -25,5 +24,7 @@
     <mask>!test*.py</mask>
     <mask>*.soy</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
