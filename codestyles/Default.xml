@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+  </JSCodeStyleSettings>
   <Python>
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
@@ -7,6 +11,10 @@
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
+  <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+  </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="80" />
     <option name="WRAP_ON_TYPING" value="0" />
