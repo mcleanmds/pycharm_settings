@@ -2,4 +2,7 @@
   <component name="GeneralSettings">
     <option name="autoSaveIfInactive" value="true" />
   </component>
+  <component name="Registry">
+    <entry key="tabs.alphabetical" value="true" />
+  </component>
 </application>
