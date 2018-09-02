@@ -31,6 +31,7 @@
   <inspection_tool class="CssInvalidPropertyValue" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssInvalidPseudoSelector" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssMissingComma" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssNegativeValue" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CssNoGenericFontName" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CssOptimizeSimilarProperties" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -173,7 +174,6 @@
   <inspection_tool class="JSUndeclaredVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUndefinedPropertyAssignment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnfilteredForInLoop" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="JSUnnecessarySemicolon" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedExtXType" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedLibraryURL" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -217,6 +217,16 @@
   <inspection_tool class="PyChainedComparisonsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyClassHasNoInitInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyComparisonWithNoneInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ourVersions">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="2.7" />
+          <item index="1" class="java.lang.String" itemvalue="3.7" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyDataclassInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyDecoratorInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyDefaultArgumentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -282,6 +292,7 @@
     <option name="ignoreTupleUnpacking" value="true" />
     <option name="ignoreLambdaParameters" value="true" />
     <option name="ignoreLoopIterationVariables" value="true" />
+    <option name="ignoreVariablesStartingWithUnderscore" value="true" />
   </inspection_tool>
   <inspection_tool class="PyramidSetupInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Query_bound_parameters" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -357,9 +368,6 @@
   <inspection_tool class="UnnecessaryReturnJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
-  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
-  </inspection_tool>
   <inspection_tool class="UnusedDef" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedProperty" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="WebpackConfigHighlighting" enabled="false" level="WARNING" enabled_by_default="false" />
