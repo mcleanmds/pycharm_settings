@@ -27,8 +27,8 @@
     <mask>*.scss</mask>
     <mask>!*.log</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.stf</mask>
+    <mask>*.js</mask>
   </component>
 </application>
