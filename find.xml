@@ -17,18 +17,19 @@
     <mask>*.subscription</mask>
     <mask>!.scss</mask>
     <mask>test*py</mask>
-    <mask>!test*</mask>
-    <mask>test*.py</mask>
     <mask>!test*.py</mask>
     <mask>*.yml</mask>
     <mask>*.robot</mask>
     <mask>*.soy</mask>
     <mask>*.txt</mask>
-    <mask>*.scss</mask>
     <mask>!*.log</mask>
+    <mask>*.stf</mask>
+    <mask>*.py</mask>
+    <mask>test*.py</mask>
+    <mask>test*</mask>
+    <mask>*.scss</mask>
+    <mask>!test*</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
-    <mask>*.stf</mask>
   </component>
 </application>
