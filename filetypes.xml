@@ -8,6 +8,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="stf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
