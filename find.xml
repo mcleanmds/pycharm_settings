@@ -13,7 +13,8 @@
     <mask>*.mxml</mask>
     <mask>!test*.py</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
+    <mask>*.soy</mask>
   </component>
 </application>
