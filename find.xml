@@ -16,8 +16,8 @@
     <mask>*.scss</mask>
     <mask>*.soy</mask>
     <mask>!test*.py</mask>
-    <mask>test*.py</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
