@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -18,5 +19,6 @@
     <mask>*.soy</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
