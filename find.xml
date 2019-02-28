@@ -21,10 +21,10 @@
     <mask>*.soy</mask>
     <mask>test*.py</mask>
     <mask>!test*.py</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>test*</mask>
     <mask>*.html</mask>
+    <mask>*.py</mask>
     <mask>!test*</mask>
   </component>
 </application>
