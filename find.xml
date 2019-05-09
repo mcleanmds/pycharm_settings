@@ -15,14 +15,14 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>!test*</mask>
     <mask>!*.py</mask>
     <mask>*.robot</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>!test*.py</mask>
+    <mask>*.scss</mask>
+    <mask>!test*</mask>
     <mask>test*.py</mask>
   </component>
 </application>
