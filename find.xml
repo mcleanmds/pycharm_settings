@@ -17,12 +17,12 @@
     <mask>*.js</mask>
     <mask>!*.py</mask>
     <mask>*.robot</mask>
-    <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>!test*</mask>
     <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>test*.py</mask>
     <mask>!test*.py</mask>
+    <mask>*.html</mask>
   </component>
 </application>
