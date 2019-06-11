@@ -24,7 +24,7 @@
     <mask>*.scss</mask>
     <mask>*views*</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>*.soy</mask>
+    <mask>*.py</mask>
   </component>
 </application>
