@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,10 +23,10 @@
     <mask>test*py</mask>
     <mask>*.scss</mask>
     <mask>!test*</mask>
-    <mask>*.py</mask>
     <mask>test*.py</mask>
     <mask>*.js</mask>
     <mask>*.soy</mask>
     <mask>*.html</mask>
+    <mask>*.py</mask>
   </component>
 </application>
