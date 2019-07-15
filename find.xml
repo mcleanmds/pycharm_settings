@@ -22,8 +22,8 @@
     <mask>*.html</mask>
     <mask>*.soy</mask>
     <mask>*.robot</mask>
-    <mask>*.py</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
