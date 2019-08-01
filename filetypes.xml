@@ -15,8 +15,6 @@
       <mapping ext="tdb" type="PLAIN_TEXT" />
       <mapping ext="timer-jessie" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
