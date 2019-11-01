@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!test*.py" />
+    <option name="FILE_MASK" value="*.robot" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,7 +16,6 @@
     <mask>test*py</mask>
     <mask>!test*</mask>
     <mask>*.html</mask>
-    <mask>*.robot</mask>
     <mask>*.scss</mask>
     <mask>*.soy</mask>
     <mask>test*.py</mask>
@@ -25,5 +24,6 @@
     <mask>!*.js</mask>
     <mask>*.py</mask>
     <mask>!test*.py</mask>
+    <mask>*.robot</mask>
   </component>
 </application>
