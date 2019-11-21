@@ -4,19 +4,19 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="02periodic" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="20auto-upgrades" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="tdb" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="timer-jessie" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="stf" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="timer-jessie" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="tdb" type="PLAIN_TEXT" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
