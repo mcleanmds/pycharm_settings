@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -20,11 +20,11 @@
     <mask>*.scss</mask>
     <mask>*.soy</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>!*.js</mask>
     <mask>!test*.py</mask>
+    <mask>*.robot</mask>
+    <mask>*.js</mask>
     <mask>test*.py</mask>
     <mask>*.py</mask>
-    <mask>*.robot</mask>
   </component>
 </application>
