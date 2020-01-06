@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="Preferences" type="JSON" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="First Run" type="PLAIN_TEXT" />
       <mapping pattern="02periodic" type="PLAIN_TEXT" />
+      <mapping pattern="Cookies" type="PLAIN_TEXT" />
       <mapping pattern="vagrant_rsa" type="PLAIN_TEXT" />
       <mapping pattern="20auto-upgrades" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
