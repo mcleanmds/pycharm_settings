@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,9 +22,9 @@
     <mask>!test*.py</mask>
     <mask>*.robot</mask>
     <mask>*.js</mask>
-    <mask>*.py</mask>
     <mask>utils.py</mask>
     <mask>!test*</mask>
     <mask>test*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
