@@ -17,7 +17,6 @@
     <mask>test*py</mask>
     <mask>*.html</mask>
     <mask>*.soy</mask>
-    <mask>*.yml</mask>
     <mask>!*.js</mask>
     <mask>!test*.py</mask>
     <mask>*.robot</mask>
@@ -27,5 +26,6 @@
     <mask>*.scss</mask>
     <mask>!test*</mask>
     <mask>test*.py</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
