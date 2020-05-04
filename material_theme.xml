@@ -1,6 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="treeFontSize" value="11" />
+    <option name="tabFontSize" value="11" />
+    <option name="highlightThickness" value="1" />
+    <option name="indicatorThickness" value="1" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="tabsHeight" value="24" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-149bc57b:171ddf799d5:-8000" />
